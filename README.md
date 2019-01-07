@@ -1,2 +1,2 @@
 # Projeto_Strata
-header no aside left
+header on aside left
